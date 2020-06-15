@@ -1,4 +1,4 @@
-baseURL = "https://chandnarahul.github.io"
+baseURL = "https://chandnarahul.github.io/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "Rahul Chandna"
