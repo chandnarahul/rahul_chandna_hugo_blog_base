@@ -1,10 +1,4 @@
 public
 *.iml
 .idea
-archetypes
-content
-data
-layouts
 public
-resources
-static
