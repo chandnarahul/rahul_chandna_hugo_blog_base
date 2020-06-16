@@ -131,7 +131,7 @@ To see all running containers please run the below command:
 * Checkout Docker.com
 * Checkout DockerHub.com
 * Try finding some official repos of your favourite software.
-* Try pulling amd running a few images from DockerHub locally
+* Try pulling and running a few images from DockerHub locally
 * Check what all images you have pulled locally
 * Check what containers are running locally
 * Specify a container name when starting the container
